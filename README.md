@@ -2,27 +2,25 @@
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  My name is **YOUR NAME**, a first‑year Computer Science major with a minor in Data Science.  
-  I’m passionate about tech that helps people – and I also love baking ☕🧁.
+As a motivated student pursuing a Bachelor of Science in Computer Science or Electrical Engineering, I am passionate about developing my skills in programming and artificial intelligence. With hands-on experience in building personal projects, I am eager to continue learning and applying my knowledge in real-world environments. I am currently balancing my studies with part-time work, demonstrating strong time management and dedication to my goals. I look forward to connecting with professionals in the tech industry as I work towards a career in Computer Science & Electrical Engineering!
 </p>
 
 ---
 
 ## 🚀 About Me
 - ✨ I’m building tech that empowers others.  
-- 🎓 CS major + Data Science minor at **Your University**.  
-- 🎯 **Goals:** land an internship at Big Tech and eventually launch a nonprofit for underserved communities.  
-- 🍰 **Fun fact:** I once ran a home‑based bakery and still dream of owning a cozy café.
+- 🎓 CS major at South Seattle College.  
+- 🎯 **Goals:** land an internship at Big Tech and eventually launch a nonprofit for minority communities.  
 
 ## 🌐 Socials
 <p align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:solimonk3@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/solimonk" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/yourhandle" target="_blank">
+  <a href="https://instagram.com/solimon.k" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
@@ -32,7 +30,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <!-- Add or remove badges as you like -->
