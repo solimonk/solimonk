@@ -5,7 +5,7 @@
 As a motivated student pursuing a Bachelor of Science in Computer Science or Electrical Engineering, I am passionate about developing my skills in programming and artificial intelligence. With hands-on experience in building personal projects, I am eager to continue learning and applying my knowledge in real-world environments. I am currently balancing my studies with part-time work, demonstrating strong time management and dedication to my goals. I look forward to connecting with professionals in the tech industry as I work towards a career in Computer Science & Electrical Engineering!
 </p>
 
----
+
 
 ## 🚀 About Me
 - ✨ I’m building tech that empowers others.  
@@ -37,7 +37,7 @@ As a motivated student pursuing a Bachelor of Science in Computer Science or Ele
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solimonk&show_icons=true&theme=radical" width="48%"/>
+  <!--img src="https://github-readme-stats.vercel.app/api?username=solimonk&show_icons=true&theme=radical" width="48%"/-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solimonk&layout=compact&theme=radical" width="48%"/>
 </p>
 
