@@ -37,8 +37,8 @@ As a motivated student pursuing a Bachelor of Science in Computer Science or Ele
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOU>&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOU>&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=solimonk&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solimonk&layout=compact&theme=radical" width="48%"/>
 </p>
 
 <!-- Optional streak chart
